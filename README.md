@@ -1,4 +1,4 @@
-# Show-A-Word
+# Shot-A-Word
 
 Learn english words with flashcards!
 
